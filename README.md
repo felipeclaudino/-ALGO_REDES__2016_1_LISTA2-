@@ -1,0 +1,2 @@
+# -ALGO_REDES__2016_1_LISTA2-
+Exercicio 2 
